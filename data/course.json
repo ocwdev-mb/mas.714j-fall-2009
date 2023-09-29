@@ -1,0 +1,45 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Teaching and Education",
+      "Educational Technology"
+    ]
+  ],
+  "legacy_uid": "0088ec5b-36eb-33b3-c47b-ec2ba1182dbc",
+  "instructors": {
+    "content": [
+      "3fb07337-f543-91d6-290f-b686e3a81140",
+      "4db2020f-f9a1-f306-1609-0067fc86a5a2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "52f5b523-c692-d207-4746-4e48c72e1b96",
+    "website": "mas-714j-technologies-for-creative-learning-fall-2009"
+  },
+  "course_title": "Technologies for Creative Learning",
+  "course_description": "This course explores the design of innovative educational technologies and creative learning environments, drawing on specific case studies such as the LEGO\u00ae Programmable Brick, Scratch software and Computer Clubhouse after-school learning centers. Includes activities with new educational technologies, reflections on learning experiences, and discussion of strategies and principles underlying the design of new tools and activities.\n",
+  "department_numbers": [
+    "MAS",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.445J",
+  "primary_course_number": "MAS.714J",
+  "course_image_thumbnail": {
+    "content": "67e798dc-af86-763a-85a9-5bb42e4f0ca0",
+    "website": "mas-714j-technologies-for-creative-learning-fall-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Projects with Examples",
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "8febb3b4-f71b-4db4-aaf9-2a41f2654096",
+  "site_short_id": "mas.714j-fall-2009",
+  "title": "Course Metadata"
+}
